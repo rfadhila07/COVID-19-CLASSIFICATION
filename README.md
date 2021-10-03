@@ -1,4 +1,4 @@
-# Test-result
+# COVID-19 CLASSIFICATION
 The dataset that I used were from Iran researcher Mohammad Rahimzadeh. From the dataset that he shared, I took 3100 images that contain 500 infected Covid-19 images, 500 normal images, and i use 950 covid-19 images and 950 normal images to validation the result. After validation, i use 100 covid-19 images and 100 normal images.
 
 The dataset that I used is shared in this folder : https://drive.google.com/drive/folders/1moLjWmHHTq_sGn6HhNX278ldu5jtD_at?usp=sharing
